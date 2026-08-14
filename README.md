@@ -112,7 +112,8 @@ Before getting started, make sure you have the following ready:
 ### Step 1: Open Notebook in Colab
 Click the badge below to open the first pipeline notebook directly in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mega_herz/twitter-multimodal-hate-speech-classifier/blob/main/00_load_data.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mega-herz/twitter-multimodal-hate-speech-classifier/blob/main/notebooks/00_load_data.ipynb)
+
 
 ### Step 2: Run the Setup Cell
 1. To access the raw dataset, add and enable your Kaggle API token in the Secrets panel (key icon) of `00_load_data.ipynb`. 
